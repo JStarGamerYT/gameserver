@@ -289,7 +289,7 @@
 
 ## Example
 ```curl
-GET https://insane-api.vercel.app/gameserver?game=minecraft&ip=grmpixelmon.com
+GET https://api.jstargameryt.repl.co/gameserver?game=minecraft&ip=grmpixelmon.com
 ```
 
 ### Response:
